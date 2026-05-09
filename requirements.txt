@@ -1,3 +1,14 @@
 langchain
 langchain_openai
+langchain_community
 python-dotenv
+grandalf
+pypdf
+langchain_chroma
+chromadb
+faiss-cpu
+rank_bm25
+
+
+
+mainly u need python 3.11 or 3.12
